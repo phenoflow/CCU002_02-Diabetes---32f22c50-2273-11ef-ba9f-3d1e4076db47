@@ -1,0 +1,294 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/exudative-ccu002_02-diabetes---primary.py
+inputModule3:
+  class: File
+  path: python/ccu002_02-diabetes-steroidinduced---primary.py
+inputModule4:
+  class: File
+  path: python/nonproliferative-ccu002_02-diabetes---primary.py
+inputModule5:
+  class: File
+  path: python/ccu002_02-diabetes-ulcer---primary.py
+inputModule6:
+  class: File
+  path: python/ccu002_02-diabetes-maturity---primary.py
+inputModule7:
+  class: File
+  path: python/ccu002_02-diabetes-associated---primary.py
+inputModule8:
+  class: File
+  path: python/oculopathy-ccu002_02-diabetes---primary.py
+inputModule9:
+  class: File
+  path: python/neuropathic-ccu002_02-diabetes---primary.py
+inputModule10:
+  class: File
+  path: python/ccu002_02-diabetes-leprechaunism---primary.py
+inputModule11:
+  class: File
+  path: python/ccu002_02-diabetes---primary.py
+inputModule12:
+  class: File
+  path: python/ccu002_02-diabetes-oedema---primary.py
+inputModule13:
+  class: File
+  path: python/ccu002_02-diabetes-remission---primary.py
+inputModule14:
+  class: File
+  path: python/ccu002_02-diabetes-mellitus---primary.py
+inputModule15:
+  class: File
+  path: python/ccu002_02-diabetes-complicating---primary.py
+inputModule16:
+  class: File
+  path: python/ccu002_02-diabetes-treated---primary.py
+inputModule17:
+  class: File
+  path: python/ccu002_02-diabetes-manifestation---primary.py
+inputModule18:
+  class: File
+  path: python/ccu002_02-diabetes-gastroparesis---primary.py
+inputModule19:
+  class: File
+  path: python/ccu002_02-diabetes-pregnancy---primary.py
+inputModule20:
+  class: File
+  path: python/ccu002_02-diabetes-examination---primary.py
+inputModule21:
+  class: File
+  path: python/hypoglycemic-ccu002_02-diabetes---primary.py
+inputModule22:
+  class: File
+  path: python/ccu002_02-diabetes-cataract---primary.py
+inputModule23:
+  class: File
+  path: python/ccu002_02-diabetes-education---primary.py
+inputModule24:
+  class: File
+  path: python/ccu002_02-diabetes-second---primary.py
+inputModule25:
+  class: File
+  path: python/ccu002_02-diabetes-state---primary.py
+inputModule26:
+  class: File
+  path: python/vitreous-ccu002_02-diabetes---primary.py
+inputModule27:
+  class: File
+  path: python/ccu002_02-diabetes-amyotrophy---primary.py
+inputModule28:
+  class: File
+  path: python/advanced-ccu002_02-diabetes---primary.py
+inputModule29:
+  class: File
+  path: python/dominant-ccu002_02-diabetes---primary.py
+inputModule30:
+  class: File
+  path: python/ccu002_02-diabetes-circulatory---primary.py
+inputModule31:
+  class: File
+  path: python/ccu002_02-diabetes-maturityonset---primary.py
+inputModule32:
+  class: File
+  path: python/ccu002_02-diabetes-threatening---primary.py
+inputModule33:
+  class: File
+  path: python/lipoatrophic-ccu002_02-diabetes---primary.py
+inputModule34:
+  class: File
+  path: python/optic-ccu002_02-diabetes---primary.py
+inputModule35:
+  class: File
+  path: python/moderate-ccu002_02-diabetes---primary.py
+inputModule36:
+  class: File
+  path: python/ccu002_02-diabetes-microalbuminuria---primary.py
+inputModule37:
+  class: File
+  path: python/retinopathy-ccu002_02-diabetes---primary.py
+inputModule38:
+  class: File
+  path: python/nonketotic-ccu002_02-diabetes---primary.py
+inputModule39:
+  class: File
+  path: python/ccu002_02-diabetes-childbirth---primary.py
+inputModule40:
+  class: File
+  path: python/ccu002_02-diabetes-ketoacidosis---primary.py
+inputModule41:
+  class: File
+  path: python/mononeuropathy-ccu002_02-diabetes---primary.py
+inputModule42:
+  class: File
+  path: python/ccu002_02-diabetes-review---primary.py
+inputModule43:
+  class: File
+  path: python/polyneuropathy-ccu002_02-diabetes---primary.py
+inputModule44:
+  class: File
+  path: python/ccu002_02-diabetes-uncontrolled---primary.py
+inputModule45:
+  class: File
+  path: python/hyperosmolar-ccu002_02-diabetes---primary.py
+inputModule46:
+  class: File
+  path: python/ischaemic-ccu002_02-diabetes---primary.py
+inputModule47:
+  class: File
+  path: python/ccu002_02-diabetes-third---primary.py
+inputModule48:
+  class: File
+  path: python/ccu002_02-diabetes-brittle---primary.py
+inputModule49:
+  class: File
+  path: python/retinal-ccu002_02-diabetes---primary.py
+inputModule50:
+  class: File
+  path: python/ccu002_02-diabetes-background---primary.py
+inputModule51:
+  class: File
+  path: python/nonsteroid-ccu002_02-diabetes---primary.py
+inputModule52:
+  class: File
+  path: python/ccu002_02-diabetes-gangrene---primary.py
+inputModule53:
+  class: File
+  path: python/arthropathy-ccu002_02-diabetes---primary.py
+inputModule54:
+  class: File
+  path: python/acute-ccu002_02-diabetes---primary.py
+inputModule55:
+  class: File
+  path: python/ccu002_02-diabetes-resistance---primary.py
+inputModule56:
+  class: File
+  path: python/ccu002_02-diabetes-hyperglycemia---primary.py
+inputModule57:
+  class: File
+  path: python/ccu002_02-diabetes-vessel---primary.py
+inputModule58:
+  class: File
+  path: python/absent-ccu002_02-diabetes---primary.py
+inputModule59:
+  class: File
+  path: python/chronic-ccu002_02-diabetes---primary.py
+inputModule60:
+  class: File
+  path: python/ketoacidotic-ccu002_02-diabetes---primary.py
+inputModule61:
+  class: File
+  path: python/ccu002_02-diabetes-screening---primary.py
+inputModule62:
+  class: File
+  path: python/ccu002_02-diabetes-deafness---primary.py
+inputModule63:
+  class: File
+  path: python/dependent-ccu002_02-diabetes---primary.py
+inputModule64:
+  class: File
+  path: python/multiple-ccu002_02-diabetes---primary.py
+inputModule65:
+  class: File
+  path: python/fibrocalculous-ccu002_02-diabetes---primary.py
+inputModule66:
+  class: File
+  path: python/ccu002_02-diabetes-proteinuria---primary.py
+inputModule67:
+  class: File
+  path: python/pancreatic-ccu002_02-diabetes---primary.py
+inputModule68:
+  class: File
+  path: python/ccu002_02-diabetes-insulin---primary.py
+inputModule69:
+  class: File
+  path: python/ccu002_02-diabetes-autoimmune---primary.py
+inputModule70:
+  class: File
+  path: python/neurological-ccu002_02-diabetes---primary.py
+inputModule71:
+  class: File
+  path: python/ccu002_02-diabetes-service---primary.py
+inputModule72:
+  class: File
+  path: python/nephropathy-ccu002_02-diabetes---primary.py
+inputModule73:
+  class: File
+  path: python/angiopathy-ccu002_02-diabetes---primary.py
+inputModule74:
+  class: File
+  path: python/ccu002_02-diabetes-lipodystrophy---primary.py
+inputModule75:
+  class: File
+  path: python/neuropathy-ccu002_02-diabetes---primary.py
+inputModule76:
+  class: File
+  path: python/ccu002_02-diabetes-programme---primary.py
+inputModule77:
+  class: File
+  path: python/mixed-ccu002_02-diabetes---primary.py
+inputModule78:
+  class: File
+  path: python/cooccurrent-ccu002_02-diabetes---primary.py
+inputModule79:
+  class: File
+  path: python/severe-ccu002_02-diabetes---primary.py
+inputModule80:
+  class: File
+  path: python/ccu002_02-diabetes-sensory---primary.py
+inputModule81:
+  class: File
+  path: python/ccu002_02-diabetes-first---primary.py
+inputModule82:
+  class: File
+  path: python/renal-ccu002_02-diabetes---primary.py
+inputModule83:
+  class: File
+  path: python/ccu002_02-diabetes-mauriac's---primary.py
+inputModule84:
+  class: File
+  path: python/ccu002_02-diabetes-invite---primary.py
+inputModule85:
+  class: File
+  path: python/ccu002_02-diabetes-preexisting---primary.py
+inputModule86:
+  class: File
+  path: python/ccu002_02-diabetes-invitation---primary.py
+inputModule87:
+  class: File
+  path: python/dietary-ccu002_02-diabetes---primary.py
+inputModule88:
+  class: File
+  path: python/ccu002_02-diabetes-malnutritionrelated---primary.py
+inputModule89:
+  class: File
+  path: python/ccu002_02-diabetes-indicatorrelated---primary.py
+inputModule90:
+  class: File
+  path: python/stable-ccu002_02-diabetes---primary.py
+inputModule91:
+  class: File
+  path: python/peripheral-ccu002_02-diabetes---primary.py
+inputModule92:
+  class: File
+  path: python/noninsulindependent-ccu002_02-diabetes---primary.py
+inputModule93:
+  class: File
+  path: python/ccu002_02-diabetes-mother---primary.py
+inputModule94:
+  class: File
+  path: python/ccu002_02-diabetes-history---primary.py
+inputModule95:
+  class: File
+  path: python/macular-ccu002_02-diabetes---primary.py
+inputModule96:
+  class: File
+  path: python/right-ccu002_02-diabetes---primary.py
+inputModule97:
+  class: File
+  path: python/output-cases.py
